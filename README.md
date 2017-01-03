@@ -1,5 +1,6 @@
 # ODSC16-Hackathon
 Models for "Hacking Global Health" hackathon
+Note: if you're running Python 2.x, the scripts may freeze. Just change `n_jobs=-1` to `n_jobs=1` wherever you find it.
 
 ## See the [slides](results.pdf) that explain our approach, results and conclusions :) 
 
